@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Roblox DevMaster AI",
+  "description": "An expert AI assistant for Roblox development that generates and analyzes .rbxmx XML files, scripts, and UI hierarchies for direct import into Roblox Studio.",
+  "requestFramePermissions": []
+}
